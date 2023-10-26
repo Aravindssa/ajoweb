@@ -47,7 +47,7 @@ section{
 }
 
 .heading{
-    background: url("img/heading-bg.jpg") no-repeat;
+    background: url("heading-bg.jpg") no-repeat;
     background-size:cover;
     background-position: center;
     text-align: center;
